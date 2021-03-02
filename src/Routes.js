@@ -11,7 +11,7 @@ class Routes extends Component {
                 <Layout>
                     <BrowserRouter>
                         <Route path="/" exact component={LandingPage}/>
-                        <Route path="/Home" exact component={About}/>
+                        <Route path="/Home" exact component={LandingPage}/>
                     </BrowserRouter>
                 </Layout>
             </div>
