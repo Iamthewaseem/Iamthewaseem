@@ -1,0 +1,108 @@
+.main-footer {
+    color: whitesmoke;
+    background-color: #263238;
+    padding: 20px;
+    padding-top: 30px!important;
+    padding-bottom: 30px!important;
+    position: relative;
+    bottom: auto;
+    width: 100%;
+    font-family: 'ubuntu'
+  }
+
+  .sub-footer {
+    color: white;
+    background-color: #263238;
+    position: absolute;
+    bottom: auto;
+    margin: auto;
+    width: 100%;
+    font-family: 'ubuntu';
+    font-weight: 400;
+    text-align: center;
+    border-top: 1.5px solid grey;
+    padding: 14px
+  }
+  
+div>a{
+    text-decoration: none;
+    color: grey  
+  }
+
+.TopFooter{
+  color: white;
+  background-color:rgb(247, 250, 252);
+  padding: 5em 0.5em;
+  position: relative;
+  bottom: auto;
+  width: 100%;
+  font-family: 'ubuntu';  
+}
+
+
+.serviceColumn{
+  column-count: 2;
+  font-size: 16px;
+  font-family: 'ubuntu';
+  font-weight: 400;
+  line-height: 2em;
+  color: #153f5f;
+  padding-left: 30px;
+}
+.serviceColumn>div>a{
+  column-count: 2;
+  font-size: 16px;
+  font-family: 'ubuntu';
+  font-weight: 400;
+  line-height: 3em;
+  color: #0b64a8;
+  padding-bottom: 5px;
+  border-bottom: none;
+}
+
+.serviceColumn>div>a:hover{
+  column-count: 2;
+  font-size: 16px;
+  font-family: 'ubuntu';
+  font-weight: 500;
+  line-height: 3em;
+  color: #153f4f;
+  border-bottom: 1px dotted rgb(124, 122, 122);
+}
+
+
+
+.box {
+  text-Align: 'left';
+  background-Color: '#1f2831';
+  line-Height: 2em;
+  padding-left: 15px;
+  border-left: 3px solid grey
+}
+
+.box:hover {
+  text-Align: 'left';
+  background-Color: '#1f2831';
+  line-Height: 2em;
+  padding-left: 15px;
+  border-left: 3px solid #0b64a8
+}
+
+.container{
+  columns: 2 auto;
+}
+  
+.logoColor{
+  color: white
+}
+
+.RepairFooter{
+  background-color: rgb(0, 141, 206);
+  color: white;
+  padding-left: 15px;
+}
+
+.RepairFooter:hover{
+  background-color: #515b5f;
+  padding-left: 15px;
+}

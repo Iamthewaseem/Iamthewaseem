@@ -1,0 +1,17 @@
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1em 1em;
+  background-color: #153f5f
+  }
+
+.cardBorder:hover {
+  border-top: 5px solid #0b64a8!important
+}
+.inputForm {
+  font-family: ubuntu!important;
+  font-size: 13px!important;
+  font-weight: 300!important;
+}
+

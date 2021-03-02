@@ -1,0 +1,35 @@
+.TopFooterLP{
+    color: white;
+    position: relative;
+    bottom: auto;
+    width: 100%;
+    font-family: 'ubuntu';  
+    background-color: white;
+    margin: auto
+  }
+
+body{
+    background-color: white;
+  }
+
+.LinearGrad{
+    color: 'black!important'; 
+    font-Family: 'Ubuntu';
+    font-Weight: 400; 
+    font-Size: '16px';
+    font-Style:"italic"; 
+    padding: '10px 30px'; 
+    text-Align: 'left';
+  }
+
+.searchField{
+    display: flex;
+    justify-Content: 'flex-start';
+    flex-Flow: 'row wrap';
+    margin: 'auto';
+    padding: '20px 30px!important';
+    line-Height: '1.2em';
+    background-Image: 'linear-gradient(to right, #b3e5fc ,  white)';
+    border-Radius: '25px'
+  }
+  
